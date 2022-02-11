@@ -84,6 +84,7 @@ a:hover {
 
 .profile-pic {
   height: 250px;
+  border-radius: 50%;
 }
 
 .code-pic {
